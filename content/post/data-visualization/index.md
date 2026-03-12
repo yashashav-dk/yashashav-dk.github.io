@@ -16,19 +16,6 @@ Hugo Blox is designed to give technical content creators a seamless experience. 
 
 Use popular tools such as Plotly, Mermaid, and data frames.
 
-## Embed Rich Content
-
-HuggingFace Model
-
-{{< embed platform="huggingface" resource="google/embeddinggemma-300m" type="model" >}}
-
-HuggingFace Dataset
-
-{{< embed platform="huggingface" resource="fka/awesome-chatgpt-prompts" type="dataset" >}}
-
-GitHub Repository
-
-{{< embed platform="github" resource="HugoBlox/hugo-blox-builder" type="repo" >}}
 
 Custom embed with manual data
 
